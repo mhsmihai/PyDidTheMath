@@ -25,10 +25,10 @@
 - [@calex257](https://github.com/calex257) - Calciu Alexandru
 - [@claudiu-mogo](https://github.com/claudiu-mogo) - Mogodeanu Claudiu
 - [@mhsmihai](https://github.com/mhsmihai) - Ștefănescu Alin-Mihăiță
-- [@calex257](https://github.com/cata11v1) - Vrăbiuță Cătălin
+- [@cata11v1](https://github.com/cata11v1) - Vrăbiuță Cătălin
 
 
-##_Images_
+## _Images_
 
 
 ![basic](https://user-images.githubusercontent.com/102616353/169023255-6beb0fda-bff6-4efb-aaea-293670c2a1dd.png)
